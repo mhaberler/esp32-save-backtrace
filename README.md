@@ -1,6 +1,6 @@
 # esp32 log backtrace on restart
 
-lifted from https://kotyara12.ru/pubs/iot/remote_esp32_backtrace/
+lifted from https://kotyara12.ru/pubs/iot/remote_esp32_backtrace/ and https://github.com/kotyara12
 
 ## restart info
 ```
